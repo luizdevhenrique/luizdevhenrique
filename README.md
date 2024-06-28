@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=trypescript)
 
 **DevOps**
 
