@@ -2,9 +2,9 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo meu conhecimento na área da programação.
-- 🎓 Estudando Back-End na <a href="https://www.betrybe.com/">Trybe!</a>.
+- 🎓 Estudando Python na <a href="https://www.betrybe.com/">Trybe!</a>.
 - 💼 Procurando minha primeira oportunidade na área da programação
-- 🌱 &nbsp; Aprendendo mais sobre o Docker e o MYSQL
+- 🌱 &nbsp; Aprendendo mais sobre Python!
 
 <h3>Minhas Skills</h3>
 
